@@ -90,11 +90,8 @@ header {
 
 }
 
+
 /* main */
-
-
-
-
 
 
 .main-container-1 {
@@ -107,13 +104,13 @@ header {
     margin-bottom: 100px;
 
 
-}
+} 
 
-.main-container-1 div {
+ .main-container-1 div {
     border: rgb(182, 19, 81) 5px solid;
-}
+} 
 
-.main-image  {
+ .main-image  {
     text-align: center;
     margin-top: 50px;
     margin-left: 20px; 
@@ -121,14 +118,14 @@ header {
     align-self: center;
     width: 800px;
     height: 500px;  
-}
+} 
 
 .description-1-images  {
     width: 50px;
     height: 40px;
     margin: 35px;
     border: #b9fbc0 3px solid; 
-}
+} 
 
 .btn-add {
     background-color: pink ;
@@ -142,7 +139,7 @@ header {
     margin: 100px;
 }
 
-.description-1 {
+ .description-1 {
     text-align: center;
     margin-top: 50px;
     margin-left: 20px; 
@@ -151,22 +148,22 @@ header {
     width: 800px;
     height: 300px; 
        
-}
+} 
 
-.description-1 h2 {
+ .description-1 h2 {
     font-size: 20px;
     color: maroon;
     text-align: center; 
-    padding: 30px;
+    padding: 5px;
 }
 
 
 p {
-    font-size: 12px;
+    font-size: 16px;
     text-align: center;
     color:rgb(182, 19, 81)
    
-}
+} */
 
 .title {
     font-size: 50px;
@@ -304,6 +301,7 @@ footer {
 
 
         } 
+
 
         .description-1 h2 {
             font-size: 16px;
